@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Score/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/Score/ScoreManager.cs" Line="42" Column="3" />
+      <File FileName="Assets/Prefabs/Teleportation Pad/CustomTeleporter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Score/ShowLeaderBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets/Score/PlayerScoreList.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Scripts_Perplexus/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Score/PickUpElements.cs" Line="1" Column="1" />
+      <File FileName="Assets/Prefabs/lld_ChangeWorld/ChangeWorldTrigger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
